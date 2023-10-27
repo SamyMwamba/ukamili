@@ -9961,7 +9961,7 @@ only screen and (max-device-width: 641px) and (orientation: landscape) {
 
 .cy .avatar-name .fx {
     font-weight: 500;
-    font-size: 18px
+    font-size: 18px;
     color: #313131;
 }
 
